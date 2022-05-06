@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "carrot_cv_utils",
+    "realtime_cv",
+]
+
