@@ -1,7 +1,7 @@
 [workspace]
 members = [
-    "carrot_utils/carrot_cv_utils",
-    "carrot_utils/carrot_utils",
-    "realtime_cv",
+    "carrot-utils-rs/carrot_image_utils",
+    "carrot-utils-rs/carrot_utils",
+    "object-detection-rs",
 ]
 
