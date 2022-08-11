@@ -2,6 +2,5 @@
 members = [
     "carrot-utils-rs/carrot_image_utils",
     "carrot-utils-rs/carrot_utils",
-    "object-detection-rs",
+    "object-detection-rs/object_detection_2d",
 ]
-
