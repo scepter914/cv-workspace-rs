@@ -1,10 +1,14 @@
+
 {
   "folders": [
     {
-      "path": "carrot_cv_utils"
+      "path": "carrot-utils-rs"
     },
     {
-      "path": "realtime_cv"
+      "path": "object-detection-rs"
+    },
+    {
+      "path": "."
     },
   ],
 }

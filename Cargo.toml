@@ -1,6 +1,7 @@
 [workspace]
 members = [
-    "carrot_cv_utils",
+    "carrot_utils/carrot_cv_utils",
+    "carrot_utils/carrot_utils",
     "realtime_cv",
 ]
 
