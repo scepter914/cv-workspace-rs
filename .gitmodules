@@ -1,0 +1,6 @@
+[submodule "carrot-utils-rs"]
+	path = carrot-utils-rs
+	url = https://github.com/scepter914/carrot-utils-rs
+[submodule "object-detection-rs"]
+	path = object-detection-rs
+	url = https://github.com/scepter914/object-detection-rs
