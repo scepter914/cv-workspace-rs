@@ -2,7 +2,7 @@
 members = [
     "carrot-lib-rs/carrot_utils",
     "carrot-vision-rs/carrot_image_utils",
-    "object-detection-rs/binarized_image_object_detection",
+    "object-vision-rs/binarized_image_object_detection",
     "simple-image-interface-rs",
 ]
 
