@@ -1,6 +1,8 @@
 [workspace]
 members = [
     "carrot-lib-rs/carrot_utils",
+    "carrot-interface-rs/carrot_common_interface",
+    "carrot-interface-rs/object_detection",
     "carrot-vision-rs/carrot_image_utils",
     "carrot-vision-rs/binarized_image_object_detection",
     "carrot-application-rs/carrot_robotics",
